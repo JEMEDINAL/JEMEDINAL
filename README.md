@@ -23,7 +23,7 @@
 
 ☁️ Actualmente fortaleciendo mis conocimientos en arquitectura cloud y preparándome para obtener la certificación:
 
-*AWS Certified Cloud Practitioner * *(en proceso)*
+AWS Certified Cloud Practitioner *(en proceso)*
 
 📍 Medellín, Colombia
 
