@@ -11,7 +11,7 @@
 
 ## 🚀 Sobre mí
 
-💻 Desarrollador de software enfocado en construir soluciones escalables y de alto rendimiento usando:
+💻 Tecnologo en Analisis y Desarrollador de software enfocado en construir soluciones escalables y de alto rendimiento usando:
 
 - Java
 - Spring Boot
